@@ -1,13 +1,207 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+// 􀓔
+color: '#545454';
+ fontSize: 19;
+ fontFamily: 'Inter';
+ fontWeight: '500';
+ lineHeight: 24;
+ wordWrap: 'break-word'
+---
+// Dashboard
+color: '#545454';
+ fontSize: 19;
+ fontFamily: 'Inter';
+ fontWeight: '500';
+ lineHeight: 24;
+ wordWrap: 'break-word'
+---
+// 􀓔
+color: '#545454';
+ fontSize: 19;
+ fontFamily: 'Inter';
+ fontWeight: '500';
+ lineHeight: 24;
+ wordWrap: 'break-word'
+---
+// Residents
+color: '#545454';
+ fontSize: 19;
+ fontFamily: 'Inter';
+ fontWeight: '500';
+ lineHeight: 24;
+ wordWrap: 'break-word'
+---
+// 􀓔
+color: 'rgba(255;
+ 255;
+ 255;
+ 0.96)';
+ fontSize: 19;
+ fontFamily: 'Inter';
+ fontWeight: '500';
+ lineHeight: 24;
+ wordWrap: 'break-word'
+---
+// Contracts
+color: 'rgba(255;
+ 255;
+ 255;
+ 0.96)';
+ fontSize: 19;
+ fontFamily: 'Inter';
+ fontWeight: '500';
+ lineHeight: 24;
+ wordWrap: 'break-word'
+---
+// 􀓔
+color: '#545454';
+ fontSize: 19;
+ fontFamily: 'Inter';
+ fontWeight: '500';
+ lineHeight: 24;
+ wordWrap: 'break-word'
+---
+// Payments
+color: '#545454';
+ fontSize: 19;
+ fontFamily: 'Inter';
+ fontWeight: '500';
+ lineHeight: 24;
+ wordWrap: 'break-word'
+---
+// 􀓔
+color: '#545454';
+ fontSize: 19;
+ fontFamily: 'Inter';
+ fontWeight: '500';
+ lineHeight: 24;
+ wordWrap: 'break-word'
+---
+// Events
+color: '#545454';
+ fontSize: 19;
+ fontFamily: 'Inter';
+ fontWeight: '500';
+ lineHeight: 24;
+ wordWrap: 'break-word'
+---
+//     Search here...
+color: '#D2D2D2';
+ fontSize: 17;
+ fontFamily: 'Inter';
+ fontWeight: '500';
+ wordWrap: 'break-word'
+---
+// Olisa Shameti
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '400';
+ wordWrap: 'break-word'
+---
+// Administrator
+color: '#C7C7C7';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '400';
+ wordWrap: 'break-word'
+---
+// Contracts
+color: 'white';
+ fontSize: 90;
+ fontFamily: 'Inter';
+ fontWeight: '400';
+ wordWrap: 'break-word'
+---
+// Building A
+color: 'rgba(255;
+ 255;
+ 255;
+ 0.96)';
+ fontSize: 15;
+ fontFamily: 'Inter';
+ fontWeight: '500';
+ lineHeight: 20;
+ wordWrap: 'break-word'
+---
+// Building B
+color: '#545454';
+ fontSize: 15;
+ fontFamily: 'Inter';
+ fontWeight: '500';
+ lineHeight: 20;
+ wordWrap: 'break-word'
+---
+// Building C
+color: '#545454';
+ fontSize: 15;
+ fontFamily: 'Inter';
+ fontWeight: '500';
+ lineHeight: 20;
+ wordWrap: 'break-word'
+---
+// Add
+color: 'black';
+ fontSize: 17;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ lineHeight: 22;
+ wordWrap: 'break-word'
+---
+// New 
+color: 'black';
+ fontSize: 17;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ lineHeight: 22;
+ wordWrap: 'break-word'
+---
+// 􀉈
+color: 'rgba(255;
+ 255;
+ 255;
+ 0.96)';
+ fontSize: 17;
+ fontFamily: 'Inter';
+ fontWeight: '500';
+ lineHeight: 22;
+ wordWrap: 'break-word'
+---
+// 􀉁
+color: 'rgba(255;
+ 255;
+ 255;
+ 0.96)';
+ fontSize: 17;
+ fontFamily: 'Inter';
+ fontWeight: '500';
+ lineHeight: 22;
+ wordWrap: 'break-word'
+---
+// 􀉃
+color: 'rgba(255;
+ 255;
+ 255;
+ 0.96)';
+ fontSize: 17;
+ fontFamily: 'Inter';
+ fontWeight: '500';
+ lineHeight: 22;
+ wordWrap: 'break-word'
+---
+// 􀈑
+color: 'rgba(255;
+ 255;
+ 255;
+ 0.96)';
+ fontSize: 17;
+ fontFamily: 'Inter';
+ fontWeight: '500';
+ lineHeight: 22;
+ wordWrap: 'break-word'
+---
+// Student House<br/>Management System
+color: 'white';
+ fontSize: 13;
+ fontFamily: 'Inter';
+ fontWeight: '300';
+ wordWrap: 'break-word'
